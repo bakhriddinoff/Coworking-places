@@ -46,3 +46,50 @@ h1 {
     font-size: 30px;
     font-weight: normal;
 }
+
+
+.btn {
+    background-color: rgb(240, 84, 66);
+    color: white;
+    border: transparent;
+
+}
+
+.btn1 {
+    width: 80px;
+    height: 30px;
+    position: absolute;
+    right: 311px;
+    font-size: 18px;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.btn-wrapper {
+    height: 100%;
+    margin-bottom:10px;
+    margin-right: 10px;
+    display: flex;
+    align-items: start;
+    justify-content: start;
+}
+
+.text-wrapper {
+    margin-left: 20px;
+}
+
+.btn2 {
+    font-weight: bold;
+    width: 50px;
+    height: 30px;
+}
+
+.place {
+    width: 100%;
+}
